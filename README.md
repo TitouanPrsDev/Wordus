@@ -32,6 +32,3 @@ You can also change the number of words that appear on the screen at the beginni
 We recommend that you set a small number of words if you have a lot of players.  
 
 If you are not convinced of the preferences you can change them at the end of the game before starting a new one.
-
-In case of bug or error please contact by discord ``Hokanosekai#0001``.
-
